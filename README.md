@@ -139,7 +139,7 @@ I'm drawn to the intersection of **design, depth, and code** — particularly an
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-aryanshakya.in-7c83fd?style=for-the-badge)](https://www.aryanshakya.in)
 [![GitHub](https://img.shields.io/badge/GitHub-Aryan--Shakya-181717?style=for-the-badge&logo=github)](https://github.com/Aryan-Shakya)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aryan%20Shakya-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aryan-shakya-73035a385/)
-[![Instagram](https://img.shields.io/badge/Instagram-@aryanshakya______-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aryanshakya______/)
+[![Instagram](https://img.shields.io/badge/Instagram-@aryanshakya______-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aryanshakya______/) 
 
 </div>
 
