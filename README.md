@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:1a1a2e,100:16213e&height=220&section=header&text=Aryan%20Shakya&fontSize=65&fontColor=e0e0ff&fontAlignY=40&desc=Building%20the%20Web%20in%203D%20%E2%80%94%20One%20Pixel%20at%20a%20Time&descSize=18&descColor=7c83fd&descAlignY=62&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:1a1a2e,100:16213e&height=220&section=header&text=Aryan%20Shakya&fontSize=65&fontColor=e0e0ff&fontAlignY=40&desc=Web%20Dev%20%C2%B7%203D%20UI%20%C2%B7%20IoT%20%E2%80%94%20Where%20Code%20Meets%20the%20Real%20World&descSize=17&descColor=7c83fd&descAlignY=62&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -10,20 +10,22 @@
 <div align="center">
 
 ```
-  ┌────────────────────────────────────────────────────────┐
-  │  $ whoami                                              │
-  │  > Aryan Shakya                                        │
-  │  > B.Tech CSE @ D.Y. Patil International University    │
-  │  > Web Developer · 3D UI Enthusiast · Builder          │
-  │                                                        │
-  │  $ ls skills/                                          │
-  │  > TypeScript  JavaScript  HTML  CSS  React  Next.js   │
-  │                                                        │
-  │  $ cat /etc/current_status                             │
-  │  > crafting immersive web experiences 🌐               │
-  │  > exploring 3D interfaces & AI integration 🤖         │
-  │  > shipping cool stuff at aryanshakya.in 🚀            │
-  └────────────────────────────────────────────────────────┘
+  ┌─────────────────────────────────────────────────────────────┐
+  │  $ whoami                                                   │
+  │  > Aryan Shakya                                             │
+  │  > B.Tech CSE @ D.Y. Patil International University         │
+  │  > Web Dev · 3D UI · IoT Engineer · Builder                 │
+  │                                                             │
+  │  $ ls skills/                                               │
+  │  > TypeScript  JavaScript  HTML  CSS  React  Next.js        │
+  │  > Embedded C  ESP32  Arduino  MQTT  IoT Systems            │
+  │                                                             │
+  │  $ cat /etc/current_status                                  │
+  │  > crafting immersive web experiences 🌐                    │
+  │  > building IoT systems that talk to the real world 🔌      │
+  │  > exploring 3D interfaces & AI integration 🤖              │
+  │  > shipping cool stuff at aryanshakya.in 🚀                 │
+  └─────────────────────────────────────────────────────────────┘
 ```
 
 </div>
@@ -39,9 +41,10 @@ I don't just build websites — I craft **experiences**.
 I'm drawn to the intersection of **design, depth, and code** — particularly anything that feels alive in the browser. Think immersive 3D UIs, fluid animations, and interfaces that make people stop scrolling.
 
 - 🌐 **Specialty**: Immersive web experiences & 3D UI
-- ⚡ **Daily drivers**: TypeScript, JavaScript, Next.js
+- 🔌 **Other world**: IoT systems — ESP32, sensors, real hardware
+- ⚡ **Daily drivers**: TypeScript, JavaScript, Embedded C
 - 🎨 **Philosophy**: *"A great interface should feel, not just function."*
-- 🤖 **Exploring**: AI integration in web apps
+- 🤖 **Exploring**: AI integration in web & embedded systems
 - 🏗️ **Currently building**: Projects that live at [aryanshakya.in](https://www.aryanshakya.in)
 - 🎓 **Student by day**: CSE @ D.Y. Patil International University
 - ✨ **GitHub PRO** — because why not
@@ -52,17 +55,23 @@ I'm drawn to the intersection of **design, depth, and code** — particularly an
 
 <div align="center">
 
-### ⚡ Core Stack
-
+### ⚡ Web Stack
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
 
 ### 🚀 Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+
+### 🔌 Embedded & IoT
+![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
 
 ### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
@@ -84,6 +93,26 @@ I'm drawn to the intersection of **design, depth, and code** — particularly an
 | 🤖 [AI Workshop](https://github.com/Aryan-Shakya/AiWorkshopForSchool) | AI session built during internship | JS · AI |
 | 🔗 [WebRedirectPortal](https://github.com/Aryan-Shakya/WebRedirectPortal) | Utility for managing web redirects | TypeScript |
 | 🏪 [Buddhist Book Shop](https://github.com/Aryan-Shakya/buddhist-book-shop) | E-commerce web experience | Web |
+
+---
+
+## 🔌 IoT & Embedded World
+
+> *Where my code jumps off the screen and into the real world.*
+
+```
+  Device Layer          Edge Layer           Cloud / App
+  ────────────          ──────────           ────────────
+  [ Sensor ] ──→  [ ESP32 / Arduino ] ──→  [ MQTT Broker ]
+  [ Actuator]      [ Embedded C logic ]      [ Dashboard ]
+                   [ WiFi / BLE comms ]      [ Web App 🌐 ]
+```
+
+- 🛠️ **Hardware**: ESP32, Arduino, various sensors & actuators
+- 💾 **Language**: Embedded C for firmware & hardware control
+- 📡 **Protocols**: MQTT, WiFi, BLE, Serial
+- 🌐 **End-to-end**: From hardware → firmware → cloud → web UI
+- 🔁 **Passion**: Bridging the physical and digital world with code
 
 ---
 
