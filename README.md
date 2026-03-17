@@ -145,7 +145,7 @@ I'm drawn to the intersection of **design, depth, and code** — particularly an
 
 ---
 
-<div align="center">
+<div align="center"> 
 
 > *"The best interface is the one the user doesn't have to think about —*
 > *the worst interface is the one I shipped at 2 AM."* 😅
