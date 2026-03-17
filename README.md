@@ -17,7 +17,7 @@
   │  > Web Dev · 3D UI · IoT Engineer · Builder                 │
   │                                                             │
   │  $ ls skills/                                               │
-  │  > TypeScript  JavaScript  HTML  CSS  React  Next.js        │
+  │  > JavaScript  HTML  CSS  React  Next.js                    │
   │  > Embedded C  ESP32  Arduino  MQTT  IoT Systems            │
   │                                                             │
   │  $ cat /etc/current_status                                  │
@@ -34,7 +34,7 @@
 
 ## 🧬 The DNA
 
-<img align="right" width="340" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/>
+<img align="right" width="340" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
 
 I don't just build websites — I craft **experiences**.
 
@@ -42,7 +42,7 @@ I'm drawn to the intersection of **design, depth, and code** — particularly an
 
 - 🌐 **Specialty**: Immersive web experiences & 3D UI
 - 🔌 **Other world**: IoT systems — ESP32, sensors, real hardware
-- ⚡ **Daily drivers**: JavaScript, Embedded C
+- ⚡ **Daily drivers**: TypeScript, JavaScript, Embedded C
 - 🎨 **Philosophy**: *"A great interface should feel, not just function."*
 - 🤖 **Exploring**: AI integration in web & embedded systems
 - 🏗️ **Currently building**: Projects that live at [aryanshakya.in](https://www.aryanshakya.in)
@@ -56,7 +56,6 @@ I'm drawn to the intersection of **design, depth, and code** — particularly an
 <div align="center">
 
 ### ⚡ Web Stack
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -108,7 +107,7 @@ I'm drawn to the intersection of **design, depth, and code** — particularly an
 
 - 🛠️ **Hardware**: ESP32, Arduino, various sensors & actuators
 - 💾 **Language**: Embedded C for firmware & hardware control
-- 📡 **Protocols**: MQTT, WiFi, BLE, Serial
+- 📡 **Protocols**: WiFi, BLE, Serial
 - 🌐 **End-to-end**: From hardware → firmware → cloud → web UI
 - 🔁 **Passion**: Bridging the physical and digital world with code
 
@@ -153,7 +152,7 @@ I'm drawn to the intersection of **design, depth, and code** — particularly an
 
 <br/>
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=Aryan-Shakya&label=Profile%20Views&color=7&icon=2&pretty=true)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=Aryan-Shakya&label=Profile+Views&color=7c83fd&style=for-the-badge)
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:16213e,50:1a1a2e,100:0d0d0d&height=120&section=footer" width="100%"/>
 
