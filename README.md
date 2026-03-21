@@ -88,8 +88,6 @@ I'm drawn to the intersection of **design, depth, and code** — particularly an
 | 🌐 [aryanshakya.in](https://aryanshakya.in) | Personal portfolio — 3D immersive experience | TS · 3D UI |
 | 📖 [FlowRead](https://github.com/Aryan-Shakya/FlowRead_next) | A next-gen reading experience app | TypeScript |
 | 🤖 [AI Workshop](https://github.com/Aryan-Shakya/AiWorkshopForSchool) | AI session built during internship | JS · AI |
-| 🔗 [WebRedirectPortal](https://github.com/Aryan-Shakya/WebRedirectPortal) | Utility for managing web redirects | TypeScript |
-| 🏪 [Buddhist Book Shop](https://github.com/Aryan-Shakya/buddhist-book-shop) | E-commerce web experience | Web |
 
 ---
 
